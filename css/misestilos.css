@@ -1,0 +1,88 @@
+#principal{
+
+	margin: auto;
+}
+
+#logo p{
+
+	font-family: 'Lato', sans-serif;
+
+}
+
+header{
+	width: 1525px;
+	height: 100px;
+	border: 1px solid #336DFF;
+	background-color: #5EA2AB;
+	float: flex;
+}
+
+p, h2{
+
+	color:white;
+}
+
+#logo{
+
+	width: 200px;
+	height: 100px; 
+	border: 1px solid #5EA2AB;
+	float:left;
+}
+
+.menu{
+
+	float: right;
+}
+
+.logo a nombre-logo{
+
+	list-style: none;
+	float: left;
+}
+
+.menu ul{
+
+	background-color: blue;
+
+
+}
+
+.menu ul li{
+
+	list-style: none;
+	float: left;
+
+
+
+}
+
+.menu ul li a{
+
+	text-decoration: none;
+	padding: 10px 12px;
+	color: white;
+	font-family: 'Lato', sans-serif;
+
+}
+
+nav {
+
+	border-style: #336DFF;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+.flexslider{
+	width: 100%;
+	position: relative;
+}
+
+.slides{
+	width: 100%;
+	overflow: hidden;
+}
